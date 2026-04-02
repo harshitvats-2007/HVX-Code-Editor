@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icon.png" alt="HVX Logo" width="150"/>
+  
   <h1>HVX EDITOR PRO</h1>
   <h3>Hyper Visual eXperience</h3>
   <p>The ultimate offline Cyberdeck IDE built for Vibe Coders.</p>
